@@ -1,4 +1,7 @@
-This repo scrapes project design documents (PDD) from the Clean Development Mechanism Registry (https://cdm.unfccc.int/Projects/projsearch.html) based on project reference number. The script can be tailored to scrape all CDM PDD documents, which will be valuable to get emissions related project metadata for waste and oil and gas sectors. 
+This repo scrapes project design documents (PDD) from the Clean Development Mechanism Registry (https://cdm.unfccc.int/Projects/projsearch.html) based on project reference number. It is downloading Brazil landfill gas capture prjoects to be further extracted using Gen AI for metadata such as coordinates, owner, gas capturing status, etc. 
+
+
+The script can be tailored to scrape all CDM PDD documents, which will be valuable to get emissions related project metadata for waste and oil and gas sectors. 
 
 Instalation
 
