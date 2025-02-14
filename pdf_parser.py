@@ -4,6 +4,9 @@ from openai import OpenAI # Version 1.33.0
 from openai.types.beta.threads.message_create_params import Attachment, AttachmentToolFileSearch
 import json
 
+# Load environment variables from a .env file
+load_dotenv()
+
 MY_OPENAI_KEY = os.getenv('OPENAI_API_KEY') # Add your OpenAI API key
 client = OpenAI(api_key=MY_OPENAI_KEY)
 
