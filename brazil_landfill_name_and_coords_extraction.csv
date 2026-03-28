@@ -1,0 +1,49 @@
+landfill_name,gas_capture,gas_flare,gas_to_energy_project,project_title,filename,location.region,location.city,location.country,coordinates.latitude,coordinates.longitude
+Dois Arcos Landfill,True,True,True,Dois Arcos Landfill Gas Project Activity,10257_PDD.pdf,Rio de Janeiro State,São Pedro da Aldeia,Brazil,-22.82601389,-42.05100556
+Oeste de Caucaia Landfill,True,True,True,Oeste de Caucaia Landfill Project Activity,10261_PDD.pdf,Ceará,Caucaia,Brazil,-3.78847222,-38.67357222
+CGR Piaçaguera,True,True,False,Terrestre Ambiental Landfill Gás Project,1133_PDD.pdf,São Paulo,Santos,Brazil,-23.885835,-46.312335
+ESTRE Pedreira Landfill,True,True,True,1134 ESTRE Pedreira Landfill Gás Project (EPLGP),1134_PDD.pdf,São Paulo,Iracemápolis,Brazil,-23.114376,-47.551041
+Bragança landfill,True,True,True,Embralixo/Araúna – Bragança Landfill Gas Project,1179_PDD.pdf,São Paulo,Bragança Paulista,Brazil,-23.2475,-45.8675
+URBAM landfill,True,True,False,URBAM/ARAUNA – Landfill Gas Project (UALGP),1247_PDD.pdf,São Paulo,São José dos Campos,Brazil,-23.2475,-45.8675
+MARCA Landfill,True,True,True,Brazil MARCA Landfill Gas to Energy Project,137_PDD.pdf,Espirito Santo State,Cariacica,Brazil,-20.3161,-40.2933
+Alto-Tietê landfill,True,True,True,Alto-Tietê landfill gas capture project,1636_PDD.pdf,São Paulo State,Itaquaquecetuba,Brazil,-23.433333,-46.291667
+Caieiras Landfill,True,True,False,Caieiras landfill gas emission reduction,171_PDD.pdf,São Paulo State,Caieiras,Brazil,-23.4319509,-46.5422455
+SANTEC Resíduos landfill,True,True,False,SANTEC Resíduos landfill gas emission reduction Project Activity,1908_PDD.pdf,Santa Catarina,Içara,Brazil,-28.78983333,-49.32866667
+Anaconda Ambiental Sanitary Landfill,True,True,False,Anaconda Landfill Gas Project,226_PDD.pdf,São Paulo,Santa Isabel,Brazil,-23.193809,-47.058886
+Onyx Landfill Gas Recovery Project,True,True,False,"Onyx Landfill Gas Recovery Project – Trémembé, Brazil",27_PDD.pdf,São Paulo,Tremembé,Brazil,-22.82601389,-45.56333333
+CTR Candeias Landfill Gas Project,True,True,True,CTR Candeias Landfill Gas Project,3958_PDD.pdf,Pernambuco,Jaboatão dos Guararapes,Brazil,-8.164258,-34.985286
+Itaoca Landfill,True,True,False,Itaoca Landfill Gas Project,4657_PDD.pdf,Rio de Janeiro,São Gonçalo,Brazil,-22.775,-43.373
+CTL Landfill,True,True,True,CTL Landfill Gas Project,5947_PDD.pdf,São Paulo State,São Paulo,Brazil,-23.5505,-46.6333
+CGR Guatapará landfill,True,True,True,CGR Guatapara Landfill Project,6553_PDD.pdf,São Paulo State,Guatapará,Brazil,-21.395833,-47.955
+Uberlândia landfill I and II,True,True,True,Uberlândia Landfills I and II Gas to Energy Project,7110_PDD.pdf,State of Minas Gerais,Uberlândia,Brazil,-18.878361,-48.318583
+Ventura Landfill,True,True,True,Projeto de Gás de Aterro TECIPAR – PROGAT,7799_PDD.pdf,São Paulo,Santana de Parnaíba,Brazil,-23.416711,-46.959638
+UTGR – Jambeiro,True,True,False,ENGEP & BEGREEN CDM Project at UTGR – Jambeiro Landfill,8011_PDD.pdf,São Paulo State,Jambeiro,Brazil,-23.273889,-45.752222
+CGR Catanduva Landfill Gas Project,True,True,True,CGR Catanduva Landfill Gas Project,8205_PDD.pdf,São Paulo,Catanduva,Brazil,-21.123247,-48.928236
+CGR Piratininga,True,True,True,ESTRE Piratininga Landfill Gas Project,8213_PDD.pdf,São Paulo,Piratininga,Brazil,-22.371667,-49.170278
+Onda Verde Landfill,True,True,True,Constroeste Landfill Gas to Energy Project,8603_PDD.pdf,São Paulo,Onda Verde,Brazil,-20.617240503129633,-49.33414936065674
+Aurá Landfill,True,True,False,Aurá Landfill Gas Project,888_PDD.pdf,State of Pará,Belém,Brazil,-1.45556,-48.49
+Canabrava Landfill,True,True,False,Canabrava Landfill Gas Project,893_PDD.pdf,Bahia,Salvador,Brazil,-12.9711,-38.5108
+Gramacho Landfill,True,True,True,Gramacho Landfill Gas Project,9087_PDD.pdf,Rio de Janeiro,Duque de Caxias,Brazil,-22.746111,-43.260278
+Estre Itapevi Landfill,True,True,True,0911: ESTRE Itapevi Landfill Gas Project (EILGP),911_PDD.pdf,São Paulo State,Itapevi,Brazil,-23.401961,-47.025269
+Quitaúna Landfill,True,True,False,Quitaúna Landfill Gas Project (QLGP),912_PDD.pdf,São Paulo,Guarulhos,Brazil,-23.41289167,-46.55770833
+Lara Landfill,True,True,True,"Landfill Gas to Energy Project at Lara Landfill, Mauá, Brazil",91_PDD.pdf,São Paulo,Mauá,Brazil,-23.705014,-46.474225
+ITVR São Leopoldo,True,True,False,ITVR Sao Leopoldo landfill gas project,9290_PDD.pdf,Rio Grande do Sul State,São Leopoldo,Brazil,-29.7461,-51.1966
+CTDR Bob Ambiental,True,True,False,CTDR Bob Ambiental landfill gas project,9295_PDD.pdf,Rio de Janeiro State,Belford Roxo,Brazil,-22.7011805,-43.3888194
+Rio Grande landfill,True,True,False,Rio Grande landfill gas project,9300_PDD.pdf,Rio Grande do Sul,Rio Grande,Brazil,-32.0288888,-52.2911111
+CTR da Caturrita landfill,True,True,False,CTR da Caturrita landfill gas project,9302_PDD.pdf,Rio Grande do Sul State,Santa Maria,Brazil,-29.6558,-53.8661
+Canhanduba Landfill,True,True,True,Canhanduba Landfill Project,9943_PDD.pdf,Santa Catarina,Joinville,Brazil,-26.301271,-48.799136
+João Pessoa Landfill,True,True,True,1165 PROBIOGAS-JP – João Pessoa Landfill Gas Project,1165_PDD.pdf,Paraíba,João Pessoa,Brazil,-7.115125,-34.8631
+Aterro Vila Velha,True,True,False,CTRVV Landfill emission reduction project,1491_PDD.pdf,Espírito Santo,Vila Velha,Brazil,-20.4567,-40.3911
+Feira de Santana Landfill,True,True,True,Feira de Santana Landfill Gas Project,1626_PDD.pdf,Bahia State,Feira de Santana,Brazil,-12.246944,-38.9975
+Bandeirantes Landfill,True,True,True,Bandeirantes Landfill Gas to Energy Project (BLFGE),164_PDD.pdf,Southeastern region,São Paulo,Brazil,-23.4161289,-46.7622611
+CGR Paulínia Landfill,True,True,True,ESTRE’s Paulínia Landfill Gas Project (EPLGP),165_PDD.pdf,São Paulo State,Paulínia,Brazil,-22.773506,-47.196161
+CTRS / BR.040 Landfill,True,True,True,Exploitation of the biogas from Controlled Landfill in Solid Waste Management Central – CTRS / BR.040,3464_PDD.pdf,Minas Gerais,Belo Horizonte,Brazil,-19.93258333,-44.01808333
+São João Landfill,True,True,True,0373 São João Landfill Gas to Energy Project (SJ),373_PDD.pdf,São Paulo,São João da Boa Vista,Brazil,-21.971982,-46.728277
+Aterro Metropolitano Central,True,True,True,Salvador da Bahia Landfill Gas Management Project,52_PDD.pdf,Bahia State,Lauro de Freitas,Brazil,-12.8625,-38.3636
+Central de Resíduos do Recreio Landfill,True,True,True,Central de Resíduos do Recreio Landfill Gas Project (CRRLGP),648_PDD.pdf,Recreio dos Bandeirantes,Rio de Janeiro,Brazil,-22.922006,-43.53351
+Natal Landfill,True,True,True,Natal Landfill Gas to Energy Project,7637_PDD.pdf,Rio Grande do Norte,Ceará-Mirim,Brazil,-5.711788,-35.382797
+CTR Rosario Landfill,True,True,True,8242 CTR Rosario Landfill Gas Project,8242_PDD.pdf,Córdoba Province,Córdoba,Argentina,-31.4201,-64.1888
+Proactiva CGA Iperó Landfill,True,True,True,Proactiva CGA Iperó Landfill Gas to Energy Project,8751_PDD.pdf,São Paulo,Iperó,Brazil,-23.117569,-47.540556
+CTR Macaúbas,True,True,True,Macaúbas Landfill Gas Project,9063_PDD.pdf,Minas Gerais,Sabará,Brazil,-19.856389,-43.844444
+CTR Maceio,True,True,True,CTR Maceio Landfill Gas Project,9228_PDD.pdf,Alagoas,Maceió,Brazil,-9.561214,-35.697483
+CPTR Marituba landfill,True,True,False,CPTR Marituba landfill gas project,9298_PDD.pdf,Pará State,Marituba,Brazil,-1.396279,-48.3377
